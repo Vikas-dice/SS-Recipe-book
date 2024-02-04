@@ -1,0 +1,33 @@
+working area, tracked area,
+git init
+git add
+git commit -m ""
+git remote add origin 
+
+git clone 
+----------------------------
+git init
+git add .
+git commit 
+git clone origin master
+--------------------------------
+
+git pull origin master
+
+--------------------
+git branch
+git branch 1
+git checkout c1
+
+-----------------------
+git add .
+git commit -m
+git pull origin c1
+git push origjn c1
+-----------------------------------
+merge
+git checkpout master
+git pull origin master
+git branch --merged
+git merge ch1
+git push origin master
